@@ -1,0 +1,16 @@
+C:\Users\bryan\Documents\Workspace\OopBasics\bin\Debug\net5.0\OopBasics.exe
+C:\Users\bryan\Documents\Workspace\OopBasics\bin\Debug\net5.0\OopBasics.deps.json
+C:\Users\bryan\Documents\Workspace\OopBasics\bin\Debug\net5.0\OopBasics.runtimeconfig.json
+C:\Users\bryan\Documents\Workspace\OopBasics\bin\Debug\net5.0\OopBasics.runtimeconfig.dev.json
+C:\Users\bryan\Documents\Workspace\OopBasics\bin\Debug\net5.0\OopBasics.dll
+C:\Users\bryan\Documents\Workspace\OopBasics\bin\Debug\net5.0\ref\OopBasics.dll
+C:\Users\bryan\Documents\Workspace\OopBasics\bin\Debug\net5.0\OopBasics.pdb
+C:\Users\bryan\Documents\Workspace\OopBasics\obj\Debug\net5.0\OopBasics.csprojAssemblyReference.cache
+C:\Users\bryan\Documents\Workspace\OopBasics\obj\Debug\net5.0\OopBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan\Documents\Workspace\OopBasics\obj\Debug\net5.0\OopBasics.AssemblyInfoInputs.cache
+C:\Users\bryan\Documents\Workspace\OopBasics\obj\Debug\net5.0\OopBasics.AssemblyInfo.cs
+C:\Users\bryan\Documents\Workspace\OopBasics\obj\Debug\net5.0\OopBasics.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Documents\Workspace\OopBasics\obj\Debug\net5.0\OopBasics.dll
+C:\Users\bryan\Documents\Workspace\OopBasics\obj\Debug\net5.0\ref\OopBasics.dll
+C:\Users\bryan\Documents\Workspace\OopBasics\obj\Debug\net5.0\OopBasics.pdb
+C:\Users\bryan\Documents\Workspace\OopBasics\obj\Debug\net5.0\OopBasics.genruntimeconfig.cache
